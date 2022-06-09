@@ -1,2 +1,3 @@
 # Rest-Assured-Demo-Project
-Automating REST API CRUD operations using RestAssured Library
+Automating REST API operations (POST / GET / PATCH / DELETE) using RestAssured Library
+    
